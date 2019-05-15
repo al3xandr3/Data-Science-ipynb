@@ -1,4 +1,5 @@
 _arkv/
+my_logs/
 _*.ipynb
 
 # Byte-compiled / optimized / DLL files
