@@ -11,7 +11,7 @@ import numpy  as np
 import uuid
 
 
-#   Null Hypothesys here is that a set of numbers is normally 
+# Null Hypothesys here is that a set of numbers is normally 
 # distributed (i.e. non-random)
 
 not_random_data = norm.rvs(size=1000)
