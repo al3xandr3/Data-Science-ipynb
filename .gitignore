@@ -2,6 +2,8 @@ _arkv/
 my_logs/
 tmp/
 _*.ipynb
+FI/_resources/
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
